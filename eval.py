@@ -10,7 +10,7 @@ import eval_data_loader as data_loader
 import matplotlib.pyplot as plt
 
 tf.app.flags.DEFINE_string('validation_data_path', 'samples/', '')
-tf.app.flags.DEFINE_string('checkpoint_joint_model', 'models/joint_model_real/', '')
+tf.app.flags.DEFINE_string('checkpoint_joint_model', 'models/joint_model/', '')
 tf.app.flags.DEFINE_integer('batch_size_per_gpu', 1, '')
 tf.app.flags.DEFINE_integer('num_readers', 1, '')
 tf.app.flags.DEFINE_integer('input_size', 512, '')
