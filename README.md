@@ -19,7 +19,7 @@ Steps:
 * Go to root dir of this repository and EXECUTE: ```python eval.py```
 
 ### Reference
-
+```
 @InProceedings{10.1007/978-3-030-41404-7_53,
 	author="Chowdhury, Pinaki Nath
 	and Shivakumara, Palaiahnakote
@@ -38,7 +38,7 @@ Steps:
 	address="Cham",
 	pages="749--763",
 }
-
+```
 ### Feel free to visit my website at: www.pinakinathc.me
 
 If this code helps you, please send me the best research paper that you have come across. (i mostly love papers related to machine learning and computer vision, a good theoretical paper makes me happy)
